@@ -1,0 +1,5 @@
+D:\Documents\Dev\Projetos\GFT-Etapa-Tecnica\Q1\obj\Debug\net5.0\Q1.csprojAssemblyReference.cache
+D:\Documents\Dev\Projetos\GFT-Etapa-Tecnica\Q1\obj\Debug\net5.0\Q1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Dev\Projetos\GFT-Etapa-Tecnica\Q1\obj\Debug\net5.0\Q1.AssemblyInfoInputs.cache
+D:\Documents\Dev\Projetos\GFT-Etapa-Tecnica\Q1\obj\Debug\net5.0\Q1.AssemblyInfo.cs
+D:\Documents\Dev\Projetos\GFT-Etapa-Tecnica\Q1\obj\Debug\net5.0\Q1.csproj.CoreCompileInputs.cache

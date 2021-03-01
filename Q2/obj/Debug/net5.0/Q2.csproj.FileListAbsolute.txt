@@ -1,0 +1,16 @@
+D:\Documents\Dev\Projetos\GFT-Etapa-Tecnica\Q2\bin\Debug\net5.0\Q2.exe
+D:\Documents\Dev\Projetos\GFT-Etapa-Tecnica\Q2\bin\Debug\net5.0\Q2.deps.json
+D:\Documents\Dev\Projetos\GFT-Etapa-Tecnica\Q2\bin\Debug\net5.0\Q2.runtimeconfig.json
+D:\Documents\Dev\Projetos\GFT-Etapa-Tecnica\Q2\bin\Debug\net5.0\Q2.runtimeconfig.dev.json
+D:\Documents\Dev\Projetos\GFT-Etapa-Tecnica\Q2\bin\Debug\net5.0\Q2.dll
+D:\Documents\Dev\Projetos\GFT-Etapa-Tecnica\Q2\bin\Debug\net5.0\ref\Q2.dll
+D:\Documents\Dev\Projetos\GFT-Etapa-Tecnica\Q2\bin\Debug\net5.0\Q2.pdb
+D:\Documents\Dev\Projetos\GFT-Etapa-Tecnica\Q2\obj\Debug\net5.0\Q2.csprojAssemblyReference.cache
+D:\Documents\Dev\Projetos\GFT-Etapa-Tecnica\Q2\obj\Debug\net5.0\Q2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Dev\Projetos\GFT-Etapa-Tecnica\Q2\obj\Debug\net5.0\Q2.AssemblyInfoInputs.cache
+D:\Documents\Dev\Projetos\GFT-Etapa-Tecnica\Q2\obj\Debug\net5.0\Q2.AssemblyInfo.cs
+D:\Documents\Dev\Projetos\GFT-Etapa-Tecnica\Q2\obj\Debug\net5.0\Q2.csproj.CoreCompileInputs.cache
+D:\Documents\Dev\Projetos\GFT-Etapa-Tecnica\Q2\obj\Debug\net5.0\Q2.dll
+D:\Documents\Dev\Projetos\GFT-Etapa-Tecnica\Q2\obj\Debug\net5.0\ref\Q2.dll
+D:\Documents\Dev\Projetos\GFT-Etapa-Tecnica\Q2\obj\Debug\net5.0\Q2.pdb
+D:\Documents\Dev\Projetos\GFT-Etapa-Tecnica\Q2\obj\Debug\net5.0\Q2.genruntimeconfig.cache
