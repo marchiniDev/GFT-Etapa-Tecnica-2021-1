@@ -1,18 +1,17 @@
 using System;
 
-namespace Q2
+namespace Q4
 {
     public class Quadrado: AreaCalculavel
     {
-        public float lado, area;
+        private float lado;
 
         public  Quadrado (float lado){
             this.lado = lado;
         }
 
         public void calcArea(){
-            area = lado * lado;
-            Console.WriteLine($"A área do quadrado é {area}.");
+            Console.WriteLine($"A área do quadrado é {lado * lado}.");
         }
     }
 }

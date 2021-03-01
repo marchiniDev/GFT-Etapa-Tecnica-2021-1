@@ -1,7 +1,7 @@
-namespace Q2
+namespace Q4
 {
     public interface AreaCalculavel
     {
-         void calcArea();
+        void calcArea();
     }
 }

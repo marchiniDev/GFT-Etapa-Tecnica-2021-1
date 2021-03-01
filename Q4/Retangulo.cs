@@ -1,10 +1,10 @@
 using System;
 
-namespace Q2
+namespace Q4
 {
     public class Retangulo: AreaCalculavel
     {
-        public float largura, altura, area;
+        private float largura, altura;
 
         public  Retangulo(float largura, float altura){
             this.largura = largura;
@@ -12,8 +12,7 @@ namespace Q2
         }
 
         public void calcArea(){
-            area = largura * altura;
-            Console.WriteLine($"A área do retangulo é {area}.");
+            Console.WriteLine($"A área do retangulo é {largura * altura}.");
         }
     }
 }

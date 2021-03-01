@@ -2,7 +2,7 @@
 
 namespace Q4
 {
-    class Teste
+    class Teste 
     {
         static void Main(string[] args)
         {
@@ -12,7 +12,7 @@ namespace Q4
 
             sqr.calcArea();
             rec.calcArea();
-            circ.calcArea();
+            circ.calcArea();                       
         }
     }
 }
